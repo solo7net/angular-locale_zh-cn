@@ -1,0 +1,21 @@
+{
+  "name": "angular-locale-zhcn",
+  "main": "angular-locale_zh-cn.js",
+  "homepage": "https://github.com/solo7net/angular-locale_zh-cn",
+  "authors": [
+    "bobo"
+  ],
+  "description": "Clone angular-locale Code To Here For Bower",
+  "keywords": [
+    "angular-locale-zh-cn",
+    "locale"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
